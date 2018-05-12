@@ -1,0 +1,34 @@
+_repo: The-Adventures-of-the-Chevalier-De-La-Salle-and-His-Companions-in-Their-Explorations-of-the-P__24400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - John S. C. (John Stevens Cabot) Abbott
+    - Abbott, John Stevens Cabot
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: ''
+gutenberg_issued: '2008-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River Valley -- Discovery and exploration'
+- !lcsh 'La Salle, Robert Cavelier, sieur de, 1643-1687'
+- !lcsh 'New France -- Discovery and exploration'
+- !lcc 'F975'
+title: The Adventures of the Chevalier De La Salle and His Companions, in Their Explorations
+  of the Prairies, Forests, Lakes, and Rivers, of the New World, and Their Interviews
+  with the Savage Tribes, Two Hundred Years Ago
+url: http://www.gutenberg.org/ebooks/24400
